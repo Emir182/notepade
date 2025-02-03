@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello This is a Chill guy
 And I'm fine
+=======
+This is new chill guy
+And I'm soo bad
+>>>>>>> future
